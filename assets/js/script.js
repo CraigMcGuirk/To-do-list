@@ -2,6 +2,12 @@ const form = document.getElementById('form');
 const input = document.getElementById('input');
 const todosUL = document.getElementById('todos');
 
+const todos = JSON.parse(localStorage.getItem('todos'))
+
+if(todos) {
+    todos.forEach(todo => addTodo(todo))
+}
+
 form.addEventListener('submit', (e) => {
     e.preventDefault()
 
@@ -34,8 +40,24 @@ function addTodo(todo) {
         todosUL.appendChild(todoEL)
 
         input.value = ''
+
+        updateLS()
     }
+    
 }
 
-localStorage.setItem('name', JSON.stringify(obj)
-JSON.parse(localStorage.getItem(obj))
+function updateLS() {
+    todosEL = document.querySelectorAll('li')
+
+    const todos = []
+
+    todosEL.forEach(todoEL => {
+        todos.push({
+            text: todoEL.innerText,
+            completed: todoEL.classList.contains
+            ('completed')
+        })
+    })
+
+    localStorage.setItem('todos', JSON.stringify(todos))
+}
