@@ -46,7 +46,7 @@ I had issues with the scaling on the smaller size screens (950px) and below.
 
 ## Features to implement in the future:
 
-* I would like to implement mor functionality, possibly a multi list option that you can click and drag different lists so the user may have for example shopping list and a daily tasks list on the same page.
+* I would like to implement more functionality, possibly a multi list option that you can click and drag different lists so the user may have for example shopping list and a daily tasks list on the same page.
 
 
 ## Programming Languages
@@ -110,9 +110,6 @@ As a First Time Visitor, I want to navigate easily around the website to find co
 
 * I asked Friends and Family to borrow their phone or tablet to view my website in order to test the site. I also asked for feedback and if they were able to point out any bugs or UX issues.
 
-I tested all internal links and they worked correctly.
-
-All external links were tested and they opened on a new tab correctly.
 
 ## Fixed Bugs: 
 Menu items were not displaying correctly on smaller screen sizes, I made the font size of the page title smaller in order to give the menu items more breathing space.
@@ -160,21 +157,10 @@ This project was deployed to GitHub Pages taking the following steps:
 7 Press Enter. Your local clone will be created.
 
 ## Credits
-
-* All images: unsplash.com
-
-* Code for formatting of old town facts section on first page modified from Love running project
-
-* Syntax for styling of scenery page taken from love running.
-
-* Syntax for media query for smaller screen sizes taken from love running
-
-* Signup form altered from signup challenge
+* Content from the Javascript module has been most helpful in understanding 
+* Udemy javascript course "From Zero to expert" has beenvery helpful as I have a small learning disability and watching videos makes things easier to understand. 
 
 ## Content
-* All content was produced and written by the developer.
+* All content was not produced and written by the developer. I had some assistance from 
 
-## Acknowledgements
-* My Mentor for his highly constructive help and support.
-* The Code Institute's tutor support for quickly assisting with any problems or queries.
-* The Slack community for being very supportive
+
