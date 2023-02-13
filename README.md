@@ -74,7 +74,7 @@ I had issues with the scaling on the smaller size screens (950px) and below.
 
 * I validated my webpage with the use of the W3C Markup Validator, jshint and the W3C CSS Validator to ensure there were no syntax errors.
 
-![HTML checker](https://user-images.githubusercontent.com/105204182/218470642-ddd0c80f-de7e-4b1e-8ca7-b82bb81c7fb9.png)
+![Nu html checker](https://user-images.githubusercontent.com/105204182/218472792-d164d738-2a64-4ee8-99cc-e8ec890f03fe.png)
 
 ![CSS validator](https://user-images.githubusercontent.com/105204182/218470514-fc76f3f4-77c7-42bb-ad3c-15410687c076.png)
 
