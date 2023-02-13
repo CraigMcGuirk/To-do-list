@@ -21,49 +21,33 @@ Returning Visitor Goals
 Colour Scheme
 The colour scheme of the webpage is:
 
-* #002046
-* rgb(0, 7, 9)
-* #3a3a3a
-* Black: #000000
-* White #fff
+
+* #EEE9DA;
+* #444;
+* #93BFCF
+* #3C84AB
+* rgb(179, 131, 226)
+* #d5d5d5
+* rgb(179, 131, 226)
+* #e5e5e5
 
 ### Typography
-* The website uses the font of 'Montserrat', Oswald and the font of sans-serif is used as backup font in case of any difficulty to present the primary font of Montserrat.
-
-### Wireframes:
-Home page including header, wireframe
-
-![image](https://user-images.githubusercontent.com/105204182/195717444-24624143-fcba-40cb-9537-2a0720f22bb8.png)
-
-Scenery page:
-
-![image](https://user-images.githubusercontent.com/105204182/195717646-eba0ca84-fdac-4bc8-ac84-88800a556ede.png)
-
-Visit Vilnius page:
-
-![image](https://user-images.githubusercontent.com/105204182/195717773-391575bd-e29b-41b4-b483-40a3660d38a8.png)
+* The website uses the font of 'Raleway' and the font of sans-serif is used as backup font in case of any difficulty to present the primary font of Raleway.
 
 
 ## Home page:
-* The home page contains historical facts about Vilnius old town, national and regional parks located in and around the city including facts about all 3. 
-
-## Scenery page:
-* The scenery page I have placed a multitude of images of the cities most beautiful places in my opinion. 
-
-## Visit Vilnius:
-* I have put a form including visitors to leave their name, email and a question to gauge how many people would be interested in visiting. 
+* The home page contains a simple todo list with functionality to add, mark and delete completed or unwanted tasks.
 
 ## Issues incurred:
 
-* This is my first attempt at making a website and it has been a difficult challenge for me to overcome. 
+* This is my first attempt at making a website with java script integrated and it has been an extremely difficult challenge for me to overcome. 
 
-I had issues with the layout of the national parks section as it worked fine on desktop but when scaled down to mobile screen sizes the text would overlap into the box below. I fixed this issue by reducing the font size of the H3 texts.
+I had issues with the scaling on the smaller size screens (950px) and below.
 
 ## Features to implement in the future:
 
-* I would like to implement activities you can take part in as there are a plethora of fun and exciting things to do in the city.
+* I would like to implement mor functionality, possibly a multi list option that you can click and drag different lists so the user may have for example shopping list and a daily tasks list on the same page.
 
-* I would also like to add a feedback section so users can input their experiences so future tourists can have the knowledge of someone who has already been for example restaurants, bars and some locations where they took some beautiful images of locations around the city.
 
 ## Programming Languages
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -73,13 +57,9 @@ I had issues with the layout of the national parks section as it worked fine on 
 ## Frameworks and libraries
 
 * [Google Fonts](https://fonts.google.com/)
-* I used Google Fonts to import the font 'Montserrat' to my style.css which was used all throughout the website.
-* [FontAwesome](https://fontawesome.com/)
-* Font Awesome was used to add icons to my website to deliver a better UX.
-* [htmlcolorcodes](https://htmlcolorcodes.com/color-names/)
-* I used Coolor to provide a colour scheme for the website and for UX purposes.
-* [Balsamiq](https://balsamiq.com/wireframes/desktop/)
-* I used Balsamiq to create my wireframes for the project.
+* I used Google Fonts to import the font 'Raleway' to my style.css which was used all throughout the website.
+* [htmlcolorcodes](https://colorhunt.co/)
+* I used Colorhunt to provide a colour scheme for the website and for UX purposes.
 * [Am I responsive](https://ui.dev/amiresponsive?url=https://craigmcguirk.github.io/Vilnius-Lithuania/index.html)
 * I used this to create my Mockup at the top of my README.md
 * [Git](https://git-scm.com/)
