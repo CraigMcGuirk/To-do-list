@@ -1,108 +1,200 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![image](https://user-images.githubusercontent.com/105204182/195719724-747ac9c0-101d-43ca-985a-e2fc9c769a3e.png)
 
-Welcome CraigMcGuirk,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+* This website has been designed to represent an insight into my javascript knowledge so far. Javascript was by far the hardest challenge I have experienced so far on the course. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+* This website may also interest anyone looking to bring some organisation to their life.
 
-## Gitpod Reminders
+## User Experience (UX):
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+User Stories
+First Time Visitor Goals
+* 
+* As a First Time Visitor, I want the user to understand the purpose of the webpage is to create a todo list for daily or weekly tasks.
+* As a First Time Visitor, I want to navigate easily around the website and input whatever tasks they have.
+Returning Visitor Goals
+* As a Returning Visitor, I would like the user to mark off or delete things from the list.
+* As a Frequent User, I would like users to be able to regularly interract with the list and .
 
-`python3 -m http.server`
+## Design:
 
-A blue button should appear to click: _Make Public_,
+Colour Scheme
+The colour scheme of the webpage is:
 
-Another blue button should appear to click: _Open Browser_.
+* #002046
+* rgb(0, 7, 9)
+* #3a3a3a
+* Black: #000000
+* White #fff
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Typography
+* The website uses the font of 'Montserrat', Oswald and the font of sans-serif is used as backup font in case of any difficulty to present the primary font of Montserrat.
 
-A blue button should appear to click: _Make Public_,
+### Wireframes:
+Home page including header, wireframe
 
-Another blue button should appear to click: _Open Browser_.
+![image](https://user-images.githubusercontent.com/105204182/195717444-24624143-fcba-40cb-9537-2a0720f22bb8.png)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Scenery page:
 
-To log into the Heroku toolbelt CLI:
+![image](https://user-images.githubusercontent.com/105204182/195717646-eba0ca84-fdac-4bc8-ac84-88800a556ede.png)
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Visit Vilnius page:
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+![image](https://user-images.githubusercontent.com/105204182/195717773-391575bd-e29b-41b4-b483-40a3660d38a8.png)
 
-------
 
-## Release History
+## Home page:
+* The home page contains historical facts about Vilnius old town, national and regional parks located in and around the city including facts about all 3. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+## Scenery page:
+* The scenery page I have placed a multitude of images of the cities most beautiful places in my opinion. 
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+## Visit Vilnius:
+* I have put a form including visitors to leave their name, email and a question to gauge how many people would be interested in visiting. 
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+## Issues incurred:
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+* This is my first attempt at making a website and it has been a difficult challenge for me to overcome. 
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+I had issues with the layout of the national parks section as it worked fine on desktop but when scaled down to mobile screen sizes the text would overlap into the box below. I fixed this issue by reducing the font size of the H3 texts.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+## Features to implement in the future:
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+* I would like to implement activities you can take part in as there are a plethora of fun and exciting things to do in the city.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+* I would also like to add a feedback section so users can input their experiences so future tourists can have the knowledge of someone who has already been for example restaurants, bars and some locations where they took some beautiful images of locations around the city.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+## Programming Languages
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Frameworks and libraries
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+* [Google Fonts](https://fonts.google.com/)
+* I used Google Fonts to import the font 'Montserrat' to my style.css which was used all throughout the website.
+* [FontAwesome](https://fontawesome.com/)
+* Font Awesome was used to add icons to my website to deliver a better UX.
+* [htmlcolorcodes](https://htmlcolorcodes.com/color-names/)
+* I used Coolor to provide a colour scheme for the website and for UX purposes.
+* [Balsamiq](https://balsamiq.com/wireframes/desktop/)
+* I used Balsamiq to create my wireframes for the project.
+* [Am I responsive](https://ui.dev/amiresponsive?url=https://craigmcguirk.github.io/Vilnius-Lithuania/index.html)
+* I used this to create my Mockup at the top of my README.md
+* [Git](https://git-scm.com/)
+* I used Git for version control. It was through the terminal; Gitpod, that I used to commit and push code to GitHub.
+* [Github](https://github.com/)
+* GitHub was used to store projects pushed from Git.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+## Testing:
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+* I validated my webpage with the use of the W3C Markup Validator and the W3C CSS Validator to ensure there were no syntax errors.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+[W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcraigmcguirk.github.io%2FVilnius-Lithuania%2Findex.html)
 
-------
+![image](https://user-images.githubusercontent.com/105204182/195724878-71d8d4fb-e163-4565-ad85-41b4d54f2378.png)
 
-## FAQ about the uptime script
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator#errors)
 
-**Why have you added this script?**
+* I am aware there is a single error but I cannot figure out how to fix it, I cannot locate where the parse error is located
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+## Testing of User Stories in UX section:
+* First Time Visitor Goals
 
-**How will this affect me?**
+## As a First Time Visitor, I want the user to understand the purpose of the webpage and learn about Vilnius through the information provided on the pages.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+* On first view of the website, the user is met with a clear and concise navigation bar which takes them to the page of their choice.
+As a First Time Visitor, I want to navigate easily around the website to find content.
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+* The navigation bar shows clear options in which section to go on the page. I implemented a fixed-top navigation bar which is very helpful for the user moving to another page on the site..
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+* At the bottom of the page, the user can view different social media accounts. The links take the user to a new tab, keeping my website open on the previous tab.
 
-**So….?**
+## Further Testing
+* I have tested this website on the following browsers:
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+* Google Chrome
+* Microsoft Edge
 
-**Can I opt out?**
+## I have tested my website on the following:
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+* iPhone X
+* iPhone 7
+* iPad
+* iPad Mini
+* Huawei P Smart
+* Huawei P30 Lite
+* Samsung Laptop
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
 
-**Anything more?**
+* I asked Friends and Family to borrow their phone or tablet to view my website in order to test the site. I also asked for feedback and if they were able to point out any bugs or UX issues.
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+I tested all internal links and they worked correctly.
 
----
+All external links were tested and they opened on a new tab correctly.
 
-Happy coding!
+## Fixed Bugs: 
+Menu items were not displaying correctly on smaller screen sizes, I made the font size of the page title smaller in order to give the menu items more breathing space.
+
+## Known Bugs:
+
+I am aware that there are some issues with text clipping into the side of the screen on screens below 350px, as a result the cover text would become slightly obscured.
+
+## Deployment:
+GitHub Pages
+This project was deployed to GitHub Pages taking the following steps:
+
+1 Sign in to GitHub and locate the GitHub Repository.
+
+2  "Settings" from the menu near the top.
+
+3 Select "GitHub Pages" section from the options on the left side of the page.
+
+4 Under "Source" click the dropdown menu called "none" and select "Main".
+
+5 The page then automatically refreshes...
+
+6 The Website is now deployed. Scroll down to GitHub Pages section to retrieve the newly published link.
+
+## Forking the GitHub Repository
+1 Sign in to GitHub and locate the GitHub Repository.
+
+2 At the top right hand side of the screen, below the navigation bar, you will find the "Fork" button.
+
+3 By clicking this, you will have a copy of the original repository in your GitHub account.
+
+## How to make a Local Clone
+1 Sign in to Github and locate the repository.
+
+2 Above the list of files, to the right, click the "Code" button.
+
+3 In order to clone the repository, you can do so by HTTPS, SSH and GitHub CLI. Select one and copy the URL.
+
+4 Open Git Bash.
+
+5 Change the current working directory to the location you'd like the cloned directory to be made.
+
+6 Type git clone and paste the URL you copied in step 3.
+
+7 Press Enter. Your local clone will be created.
+
+## Credits
+
+* All images: unsplash.com
+
+* Code for formatting of old town facts section on first page modified from Love running project
+
+* Syntax for styling of scenery page taken from love running.
+
+* Syntax for media query for smaller screen sizes taken from love running
+
+* Signup form altered from signup challenge
+
+## Content
+* All content was produced and written by the developer.
+
+## Acknowledgements
+* My Mentor for his highly constructive help and support.
+* The Code Institute's tutor support for quickly assisting with any problems or queries.
+* The Slack community for being very supportive
