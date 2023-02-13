@@ -55,6 +55,8 @@ I had issues with the scaling on the smaller size screens (950px) and below.
 
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
 ## Frameworks and libraries
 
 * [Google Fonts](https://fonts.google.com/)
