@@ -53,6 +53,7 @@ I had issues with the scaling on the smaller size screens (950px) and below.
 ## Programming Languages
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcraigmcguirk.github.io%2FTo-do-list%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en 
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
