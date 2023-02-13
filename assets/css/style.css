@@ -116,6 +116,14 @@ small {
         padding-left: 10px;
     }
 
+    h1 {
+
+        color: #3C84AB;
+        font-size: 5rem;
+        text-align: center;
+        opacity: 0.4;
+    }
+
     .input {
         position: relative;
         padding: 5%;
