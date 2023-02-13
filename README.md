@@ -1,4 +1,5 @@
-![image]([https://user-images.githubusercontent.com/105204182/195719724-747ac9c0-101d-43ca-985a-e2fc9c769a3e.png](https://github.com/CraigMcGuirk/To-do-list/blob/main/images/amiresponsive.png))
+
+![amiresponsive](https://user-images.githubusercontent.com/105204182/218470079-7179dd4c-8579-4734-823c-8882a9dea320.png)
 
 
 * This website has been designed to represent an insight into my javascript knowledge so far. Javascript was by far the hardest challenge I have experienced so far on the course. 
@@ -69,15 +70,14 @@ I had issues with the scaling on the smaller size screens (950px) and below.
 
 ## Testing:
 
-* I validated my webpage with the use of the W3C Markup Validator and the W3C CSS Validator to ensure there were no syntax errors.
+* I validated my webpage with the use of the W3C Markup Validator, jshint and the W3C CSS Validator to ensure there were no syntax errors.
 
-[W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcraigmcguirk.github.io%2FVilnius-Lithuania%2Findex.html)
+![HTML checker](https://user-images.githubusercontent.com/105204182/218470642-ddd0c80f-de7e-4b1e-8ca7-b82bb81c7fb9.png)
 
-![image](https://user-images.githubusercontent.com/105204182/195724878-71d8d4fb-e163-4565-ad85-41b4d54f2378.png)
+![CSS validator](https://user-images.githubusercontent.com/105204182/218470514-fc76f3f4-77c7-42bb-ad3c-15410687c076.png)
 
-[W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator#errors)
+![jshint](https://user-images.githubusercontent.com/105204182/218470768-d6a8b5b9-4fe2-4f90-b06f-ef5b3b6128c7.png)
 
-* I am aware there is a single error but I cannot figure out how to fix it, I cannot locate where the parse error is located
 
 ## Testing of User Stories in UX section:
 * First Time Visitor Goals
@@ -87,9 +87,7 @@ I had issues with the scaling on the smaller size screens (950px) and below.
 * On first view of the website, the user is met with a clear and concise navigation bar which takes them to the page of their choice.
 As a First Time Visitor, I want to navigate easily around the website to find content.
 
-* The navigation bar shows clear options in which section to go on the page. I implemented a fixed-top navigation bar which is very helpful for the user moving to another page on the site..
-
-* At the bottom of the page, the user can view different social media accounts. The links take the user to a new tab, keeping my website open on the previous tab.
+* At the bottom of the page, there are instructions on how to delete and mark any completed tasks.
 
 ## Further Testing
 * I have tested this website on the following browsers:
@@ -110,13 +108,9 @@ As a First Time Visitor, I want to navigate easily around the website to find co
 
 * I asked Friends and Family to borrow their phone or tablet to view my website in order to test the site. I also asked for feedback and if they were able to point out any bugs or UX issues.
 
-
-## Fixed Bugs: 
-Menu items were not displaying correctly on smaller screen sizes, I made the font size of the page title smaller in order to give the menu items more breathing space.
-
 ## Known Bugs:
 
-I am aware that there are some issues with text clipping into the side of the screen on screens below 350px, as a result the cover text would become slightly obscured.
+I am aware that there are some issues with the text box where the list does not expand as it does on larger screen sizes on screens below 350px, as a result the list is noit as user friendly as I would like it to be. 
 
 ## Deployment:
 GitHub Pages
