@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/105204182/195719724-747ac9c0-101d-43ca-985a-e2fc9c769a3e.png)
+![image](amiresponsive.png)
 
 
 * This website has been designed to represent an insight into my javascript knowledge so far. Javascript was by far the hardest challenge I have experienced so far on the course. 
